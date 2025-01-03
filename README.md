@@ -1,4 +1,4 @@
-# nu-opam
+# nu-ocaml
 Nushell tools for OCaml programmers.
 
 The goal of this project is to allow seamless integration with OCaml tooling for

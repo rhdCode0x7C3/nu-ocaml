@@ -1,0 +1,7 @@
+{
+    name: nu-ocaml
+    type: module
+    version: "0.1.0"
+    description: "Nushell tools for OCaml programmers"
+    license: "LICENSE"
+}

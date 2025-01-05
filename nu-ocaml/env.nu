@@ -1,4 +1,4 @@
-# src/env.nu
+# nu-ocaml/env.nu
 # Manage OPAM environment variables in Nushell
 
 # Parse opam env output into a table of environment variables
